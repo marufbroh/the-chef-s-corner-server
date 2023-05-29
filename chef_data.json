@@ -1,0 +1,664 @@
+[
+  {
+    "id": 1,
+    "chef_name": "Li Ming",
+    "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=1380&t=st=1683103172~exp=1683103772~hmac=e4384a8570879e38c3d11003bdcf25c3a92165edb54cf3e7d08af7e1b10e876e",
+    "years_of_experience": 10,
+    "num_recipes": 150,
+    "likes": 5000,
+    "short_bio": "Li Ming is a master chef from Beijing with over 10 years of experience in traditional Chinese cuisine. He has won numerous awards for his innovative dishes and is known for his use of fresh, locally-sourced ingredients.",
+    "recipes": [
+      {
+        "recipe_name": "Kung Pao Chicken",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": [
+          "chicken",
+          "peanuts",
+          "dried chili peppers",
+          "scallions",
+          "garlic"
+        ],
+        "instructions": [
+          "1. Cut the chicken into bite-sized pieces.",
+          "2. Mix together the sauce ingredients in a small bowl.",
+          "3. Heat the oil in a wok or large skillet over high heat.",
+          "4. Add the chicken and stir-fry for 2-3 minutes until golden brown.",
+          "5. Add the peanuts, chili peppers, scallions, and garlic and stir-fry for another 1-2 minutes.",
+          "6. Add the sauce to the wok and stir-fry for 1-2 minutes until the chicken is coated and the sauce has thickened.",
+          "7. Serve hot with rice."
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Sichuan Hot Pot",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": ["beef", "mushrooms", "tofu", "bean sprouts", "noodles"],
+        "instructions": [
+          "1. Cut the beef and tofu into bite-sized pieces.",
+          "2. Slice the mushrooms and set aside.",
+          "3. Fill a hot pot with water and bring to a boil.",
+          "4. Add the beef, mushrooms, and tofu to the hot pot and cook for 2-3 minutes.",
+          "5. Add the bean sprouts and noodles and cook for another 1-2 minutes.",
+          "6. Serve with your choice of dipping sauces."
+        ],
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Peking Duck",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": [
+          "duck",
+          "pancakes",
+          "hoisin sauce",
+          "scallions",
+          "cucumber"
+        ],
+        "instructions": [
+          "1. Clean and season the duck with salt and pepper.",
+          "2. Hang the duck to dry for several hours or overnight.",
+          "3. Roast the duck in a preheated oven at 375°F for 45-60 minutes.",
+          "4. Remove the duck from the oven and let it rest for 10 minutes.",
+          "5. Slice the duck meat and skin into thin strips.",
+          "6. Serve the duck with pancakes, hoisin sauce, scallions, and cucumber."
+        ],
+        "rating": 4.8
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "chef_name": "Maria Rodriguez",
+    "chef_picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=1380&t=st=1683103282~exp=1683103882~hmac=20f10aed00309d3e1e704e76bbbda7e1d4d61e00f0ade40f64b9e8f3eca231e8",
+    "years_of_experience": 8,
+    "num_recipes": 75,
+    "likes": 3500,
+    "short_bio": "Maria Rodriguez is a Mexican chef with 8 years of experience in traditional Mexican cuisine. She is passionate about using fresh, local ingredients to create dishes that are both authentic and innovative.",
+    "recipes": [
+      {
+        "recipe_name": "Tacos al Pastor",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": ["pork", "pineapple", "onion", "cilantro", "lime"],
+        "instructions": [
+          "1. Marinate the pork with a mixture of chilies, spices, and pineapple juice.",
+          "2. Grill the pork and pineapple until lightly charred.",
+          "3. Serve the pork and pineapple on warm tortillas with onion, cilantro, and lime wedges."
+        ],
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Chiles Rellenos",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": [
+          "poblano peppers",
+          "cheese",
+          "tomatoes",
+          "onion",
+          "garlic"
+        ],
+        "instructions": [
+          "1. Roast and peel the peppers.",
+          "2. Stuff the peppers with cheese.",
+          "3. Make a tomato sauce with the tomatoes, onion, and garlic.",
+          "4. Pour the tomato sauce over the peppers and bake in the oven until the cheese is melted and bubbly."
+        ],
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Carne Asada Tacos",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": [
+          "beef steak",
+          "tortillas",
+          "cilantro",
+          "onions",
+          "lime juice"
+        ],
+        "instructions": [
+          "1. Preheat grill to high heat.",
+          "2. Season the beef steak with salt and pepper.",
+          "3. Grill the steak for 3-4 minutes per side, or until desired doneness is achieved.",
+          "4. Remove the steak from the grill and let it rest for a few minutes.",
+          "5. Warm up the tortillas on the grill for 10-20 seconds per side.",
+          "6. Slice the steak into thin strips.",
+          "7. Serve the tortillas with the steak, cilantro, onions, and lime juice."
+        ],
+        "rating": 4.7
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "chef_name": "Sven Gustafsson",
+    "chef_picture": "https://img.freepik.com/free-photo/professional-male-chef-cook-white-uniform-cook-hat-pointing-sidewith-index-finger-looking-confident-standing-white-background_141793-20622.jpg?w=1380&t=st=1683103300~exp=1683103900~hmac=31ea184a07061d6d7ab0aac085a6436363f923d295c81fab3c52889719851beb",
+    "years_of_experience": 12,
+    "num_recipes": 90,
+    "likes": 7000,
+    "short_bio": "Sven Gustafsson is a Swedish chef with 12 years of experience in Scandinavian cuisine. He is committed to using sustainably sourced ingredients and highlighting the flavors of the Nordic region.",
+    "recipes": [
+      {
+        "recipe_name": "Swedish Meatballs",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": ["ground beef", "breadcrumbs", "egg", "onion", "cream"],
+        "instructions": [
+          "1. Mix the beef, breadcrumbs, egg, and onion together in a bowl.",
+          "2. Form the mixture into small meatballs.",
+          "3. Brown the meatballs in a skillet.",
+          "4. Add cream to the skillet and simmer until the meatballs are cooked through."
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Gravlax",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": ["salmon", "salt", "sugar", "dill"],
+        "instructions": [
+          "1. Mix together the salt, sugar, and dill.",
+          "2. Rub the mixture onto the salmon.",
+          "3. Wrap the salmon in plastic wrap and refrigerate for 24-48 hours.",
+          "4. Slice the salmon thinly and serve with bread, cream cheese, and dill."
+        ],
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Pico de Gallo",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": [
+          "tomatoes",
+          "onion",
+          "jalapeno",
+          "lime juice",
+          "cilantro"
+        ],
+        "instructions": [
+          "1. Dice the tomatoes and onion.",
+          "2. Remove the seeds and membrane from the jalapeno and dice it.",
+          "3. Combine the diced tomatoes, onion, and jalapeno in a bowl.",
+          "4. Add lime juice and chopped cilantro to the bowl.",
+          "5. Mix well.",
+          "6. Let the flavors meld for at least 30 minutes before serving."
+        ],
+        "rating": 4.4
+      }
+    ]
+  },
+
+  {
+    "id": 4,
+    "chef_name": "Maria Lopez",
+    "chef_picture": "https://img.freepik.com/free-photo/young-male-cook-wearing-chef-uniform-glasses-showing-with-hand-white-wall_141793-81487.jpg?w=1380&t=st=1683103321~exp=1683103921~hmac=8ed76f9fd7755a1db34520d0a05839d4eb682016a3ff144037be1d7ef039237e",
+    "years_of_experience": 8,
+    "num_recipes": 90,
+    "likes": 3000,
+    "short_bio": "Maria Lopez is a Mexican chef with over 8 years of experience in creating authentic Mexican dishes. She has worked in various restaurants and is known for her ability to combine traditional Mexican flavors with modern techniques.",
+    "recipes": [
+      {
+        "recipe_name": "Tacos al Pastor",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": [
+          "pork",
+          "pineapple",
+          "onion",
+          "cilantro",
+          "corn tortillas"
+        ],
+        "instructions": [
+          "1. Marinate the pork in a mixture of chili powder, achiote paste, garlic, and pineapple juice.",
+          "2. Grill the marinated pork until cooked through and slightly charred.",
+          "3. Serve the pork on warm corn tortillas topped with diced pineapple, onion, and cilantro."
+        ],
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Chiles Rellenos",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": [
+          "poblano peppers",
+          "ground beef",
+          "onion",
+          "garlic",
+          "tomato sauce"
+        ],
+        "instructions": [
+          "1. Roast the poblano peppers over an open flame or under the broiler until the skin is charred.",
+          "2. Let the peppers cool, then peel off the skin and remove the seeds.",
+          "3. Stuff the peppers with a mixture of ground beef, onion, garlic, and spices.",
+          "4. Dip the stuffed peppers in egg batter and fry until golden brown.",
+          "5. Serve the chiles rellenos topped with tomato sauce."
+        ],
+        "rating": 4.4
+      },
+      {
+        "recipe_name": "Chiles Rellenos",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": [
+          "poblano peppers",
+          "cheese",
+          "flour",
+          "eggs",
+          "tomato sauce"
+        ],
+        "instructions": [
+          "1. Roast the poblano peppers over an open flame or under the broiler until the skin is charred.",
+          "2. Place the peppers in a plastic bag and let them steam for 10 minutes.",
+          "3. Peel the skin off the peppers and make a small slit down one side.",
+          "4. Remove the seeds and membrane from inside the peppers.",
+          "5. Stuff the peppers with cheese.",
+          "6. Dredge the peppers in flour.",
+          "7. Beat the eggs and dip the peppers in the egg mixture.",
+          "8. Fry the peppers in oil until they are golden brown on all sides.",
+          "9. Serve with tomato sauce."
+        ],
+        "rating": 4.6
+      }
+    ]
+  },
+
+  {
+    "id": 5,
+    "chef_name": "Li Ping",
+    "chef_picture": "https://img.freepik.com/free-photo/satisfied-professional-male-chef-cook-white-uniform-cook-hat-standing-with-arms-crossed-looking-confident-green-background_141793-20656.jpg?w=1380&t=st=1683103364~exp=1683103964~hmac=b10388418306870697067ba5f6e8bf9783f5d457512cf2083b69189de9f93011",
+    "years_of_experience": 10,
+    "num_recipes": 150,
+    "likes": 5000,
+    "short_bio": "Li Ming is a master chef from Beijing with over 10 years of experience in traditional Chinese cuisine. He has won numerous awards for his innovative dishes and is known for his use of fresh, locally-sourced ingredients.",
+    "recipes": [
+      {
+        "recipe_name": "Mapo Tofu",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": [
+          "tofu",
+          "ground pork",
+          "chili bean paste",
+          "dried chili peppers",
+          "scallions",
+          "garlic"
+        ],
+        "instructions": [
+          "1. Cut the tofu into small cubes.",
+          "2. Brown the ground pork in a wok or large skillet over high heat.",
+          "3. Add the chili bean paste, dried chili peppers, scallions, and garlic to the wok and stir-fry for 1-2 minutes.",
+          "4. Add the tofu to the wok and stir-fry for another 1-2 minutes.",
+          "5. Serve hot with rice."
+        ],
+        "rating": 4.4
+      },
+      {
+        "recipe_name": "Yangzhou Fried Rice",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": ["rice", "shrimp", "ham", "eggs", "carrots", "peas"],
+        "instructions": [
+          "1. Cook the rice according to package instructions and set aside.",
+          "2. Heat oil in a wok or large skillet over medium-high heat.",
+          "3. Add the shrimp and cook for 1-2 minutes until pink.",
+          "4. Add the ham, eggs, carrots, and peas and stir-fry for another 1-2 minutes.",
+          "5. Add the cooked rice to the wok and stir-fry until well combined.",
+          "6. Serve hot."
+        ],
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Spaghetti alla Carbonara",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": [
+          "spaghetti",
+          "pancetta",
+          "eggs",
+          "pecorino romano cheese",
+          "black pepper"
+        ],
+        "instructions": [
+          "1. Cook the spaghetti in salted boiling water until al dente.",
+          "2. In a pan, cook the pancetta until crispy.",
+          "3. Beat the eggs in a bowl and add the pecorino romano cheese and black pepper.",
+          "4. Drain the spaghetti and add it to the pan with the pancetta.",
+          "5. Turn off the heat and add the egg mixture to the pan, stirring quickly to coat the spaghetti.",
+          "6. Serve hot."
+        ],
+        "rating": 4.6
+      }
+    ]
+  },
+
+  {
+    "id": 6,
+    "chef_name": "Sofia Gomez",
+    "chef_picture": "https://img.freepik.com/free-photo/shot-professional-old-chef-dressed-uniform-holding-kitchen-spatula-tongs_613910-17564.jpg?w=1380&t=st=1683103393~exp=1683103993~hmac=e17494c305d5a603604e93dcabaf3e492036407eabd309d70ece50ea0035dce0",
+    "years_of_experience": 8,
+    "num_recipes": 75,
+    "likes": 2300,
+    "short_bio": "Sofia Gomez is a chef from Mexico with 8 years of experience. She specializes in traditional Mexican cuisine and incorporates unique, fresh ingredients into her dishes.",
+    "recipes": [
+      {
+        "recipe_name": "Chiles en Nogada",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": [
+          "poblano peppers",
+          "ground beef",
+          "dried fruits",
+          "nuts",
+          "spices",
+          "cream",
+          "walnut sauce"
+        ],
+        "instructions": [
+          "1. Roast the poblano peppers until they are charred on all sides.",
+          "2. Peel and seed the peppers.",
+          "3. Cook the ground beef with spices and dried fruits until browned.",
+          "4. Stuff the peppers with the beef mixture.",
+          "5. Top with walnut sauce and sprinkle with chopped nuts.",
+          "6. Serve with a drizzle of cream."
+        ],
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Mole Negro",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": [
+          "chicken",
+          "spices",
+          "nuts",
+          "chocolate",
+          "plantains",
+          "dried chiles"
+        ],
+        "instructions": [
+          "1. Toast the spices and nuts in a dry skillet.",
+          "2. Roast the dried chiles until they are fragrant.",
+          "3. Puree the chiles with the spices and nuts in a blender.",
+          "4. Cook the chicken in a separate pan until browned.",
+          "5. Add the pureed sauce to the chicken and cook for an additional 15-20 minutes.",
+          "6. Serve with rice and sliced plantains."
+        ],
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Margherita Pizza",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "mozzarella cheese",
+          "basil"
+        ],
+        "instructions": [
+          "1. Preheat the oven to 450°F.",
+          "2. Roll out the pizza dough and spread the tomato sauce over it.",
+          "3. Add the mozzarella cheese and some torn basil leaves.",
+          "4. Bake the pizza for 10-12 minutes or until the crust is golden brown.",
+          "5. Slice and serve hot."
+        ],
+        "rating": 4.3
+      }
+    ]
+  },
+
+  {
+    "id": 7,
+    "chef_name": "Antonio Rossi",
+    "chef_picture": "https://img.freepik.com/free-photo/chef-posing-with-knife-his-kitchen_155003-502.jpg?w=1380&t=st=1683103411~exp=1683104011~hmac=904def73a104e8fce78ef3fe344bdb0c190d275566ec8c4b6046869d69225022",
+    "years_of_experience": 15,
+    "num_recipes": 200,
+    "likes": 6000,
+    "short_bio": "Antonio Rossi is an Italian chef with over 15 years of experience in Mediterranean cuisine. He is known for his passion for fresh, organic ingredients and his ability to create simple yet flavorful dishes.",
+    "recipes": [
+      {
+        "recipe_name": "Margherita Pizza",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "mozzarella cheese",
+          "fresh basil leaves"
+        ],
+        "instructions": [
+          "1. Preheat the oven to 450°F.",
+          "2. Roll out the pizza dough on a lightly floured surface and place it on a pizza pan.",
+          "3. Spread the tomato sauce over the dough, leaving a small border around the edge.",
+          "4. Sprinkle the mozzarella cheese over the sauce.",
+          "5. Bake the pizza for 12-15 minutes, until the crust is golden brown and the cheese is melted.",
+          "6. Garnish the pizza with fresh basil leaves and serve hot."
+        ],
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Spaghetti Carbonara",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": [
+          "spaghetti",
+          "bacon",
+          "eggs",
+          "Parmesan cheese",
+          "black pepper"
+        ],
+        "instructions": [
+          "1. Cook the spaghetti in a large pot of salted boiling water until al dente.",
+          "2. In a skillet, cook the bacon until crispy, then remove it from the pan and crumble it.",
+          "3. In a bowl, beat the eggs, Parmesan cheese, and black pepper together.",
+          "4. Drain the spaghetti and add it to the skillet with the bacon.",
+          "5. Pour the egg mixture over the spaghetti and toss until the eggs are cooked and the spaghetti is coated.",
+          "6. Serve hot with additional Parmesan cheese on top."
+        ],
+        "rating": 4.4
+      },
+      {
+        "recipe_name": "Tiramisu",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": [
+          "ladyfingers",
+          "espresso",
+          "mascarpone cheese",
+          "heavy cream",
+          "cocoa powder"
+        ],
+        "instructions": [
+          "1. Brew the espresso and let it cool.",
+          "2. In a bowl, mix the mascarpone cheese and heavy cream until smooth.",
+          "3. Dip the ladyfingers in the espresso and arrange them in a layer in a dish.",
+          "4. Spread a layer of the mascarpone mixture over the ladyfingers.",
+          "5. Repeat with another layer of ladyfingers and mascarpone mixture.",
+          "6. Chill in the fridge for at least 2 hours.",
+          "7. Sprinkle with cocoa powder before serving."
+        ],
+        "rating": 4.9
+      }
+    ]
+  },
+
+  {
+    "id": 8,
+    "chef_name": "Rita Patel",
+    "chef_picture": "https://img.freepik.com/free-photo/studio-portrait-cook-man-with-fresh-vegetables-table_613910-10050.jpg?w=1380&t=st=1683103430~exp=1683104030~hmac=4fc21f37c5ead5a0814ed7fc368e0c1757fd1ee036fb0db108a806fa49f1afc5",
+    "years_of_experience": 8,
+    "num_recipes": 120,
+    "likes": 4200,
+    "short_bio": "Rita Patel is an Indian chef with 8 years of experience in traditional Indian cuisine. She is known for her flavorful curries and chutneys, and uses fresh, authentic ingredients in all her dishes.",
+    "recipes": [
+      {
+        "recipe_name": "Chicken Tikka Masala",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": ["chicken", "yogurt", "tomato sauce", "spices", "cream"],
+        "instructions": [
+          "1. Marinate the chicken in yogurt and spices for at least 1 hour.",
+          "2. Grill the chicken until cooked through.",
+          "3. In a separate pan, heat up the tomato sauce and cream.",
+          "4. Add the grilled chicken to the sauce and simmer for a few minutes.",
+          "5. Serve hot with naan or rice."
+        ],
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Palak Paneer",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": ["spinach", "paneer", "spices", "cream", "onions"],
+        "instructions": [
+          "1. Blanch the spinach in boiling water for 1-2 minutes.",
+          "2. Blend the spinach into a puree.",
+          "3. In a pan, saute the onions until golden brown.",
+          "4. Add the pureed spinach and spices to the pan.",
+          "5. Add the paneer and cream, and simmer for a few minutes.",
+          "6. Serve hot with naan or rice."
+        ],
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Masala Chai",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": ["tea leaves", "spices", "milk", "sugar", "water"],
+        "instructions": [
+          "1. Boil water and add the tea leaves and spices.",
+          "2. Let the tea steep for a few minutes.",
+          "3. Add milk and sugar to taste.",
+          "4. Strain the tea and serve hot."
+        ],
+        "rating": 4.8
+      }
+    ]
+  },
+
+  {
+    "id": 9,
+    "chef_name": "Maria Sanchez",
+    "chef_picture": "https://img.freepik.com/free-photo/chef-holding-pan-with-fire-inside_144627-16644.jpg?w=1380&t=st=1683103446~exp=1683104046~hmac=aa9181e54f68be5e16dddd0948b9b160bafdfe405f265c09c0fdf5788d7c97a9",
+    "years_of_experience": 8,
+    "num_recipes": 100,
+    "likes": 4000,
+    "short_bio": "Maria Sanchez is a skilled chef from Mexico City with 8 years of experience in traditional Mexican cuisine. She specializes in creating delicious and healthy dishes using fresh ingredients.",
+    "recipes": [
+      {
+        "recipe_name": "Chicken Enchiladas",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": [
+          "chicken",
+          "corn tortillas",
+          "cheese",
+          "enchilada sauce",
+          "onion"
+        ],
+        "instructions": [
+          "1. Preheat the oven to 350°F.",
+          "2. Cook and shred the chicken.",
+          "3. Warm the tortillas in the microwave or on a hot griddle.",
+          "4. Dip each tortilla in the enchilada sauce.",
+          "5. Fill the tortillas with the shredded chicken and onion.",
+          "6. Roll up the tortillas and place them in a baking dish.",
+          "7. Cover with the remaining enchilada sauce and sprinkle with cheese.",
+          "8. Bake for 20-25 minutes, or until the cheese is melted and bubbly."
+        ],
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Chiles Rellenos",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": [
+          "poblano peppers",
+          "ground beef",
+          "rice",
+          "tomato sauce",
+          "garlic"
+        ],
+        "instructions": [
+          "1. Roast the poblano peppers and remove the skin and seeds.",
+          "2. Cook the ground beef with garlic and seasonings.",
+          "3. Stuff the peppers with the cooked rice and ground beef mixture.",
+          "4. Place the stuffed peppers in a baking dish and pour the tomato sauce over them.",
+          "5. Bake at 375°F for 20-25 minutes, or until heated through."
+        ],
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Chiles Rellenos",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": [
+          "poblano peppers",
+          "ground beef",
+          "rice",
+          "black beans",
+          "queso fresco"
+        ],
+        "instructions": [
+          "1. Roast the poblano peppers over an open flame or in the oven until the skin is charred.",
+          "2. Remove the skin and seeds from the peppers.",
+          "3. Cook the ground beef and rice in a skillet.",
+          "4. Stuff the peppers with the beef and rice mixture.",
+          "5. Top the peppers with black beans and queso fresco.",
+          "6. Bake in the oven at 375°F for 10-15 minutes until the cheese is melted and bubbly.",
+          "7. Serve hot."
+        ],
+        "rating": 4.6
+      }
+    ]
+  },
+
+  {
+    "id": 10,
+    "chef_name": "Juan Perez",
+    "chef_picture": "https://img.freepik.com/free-photo/bearded-master-chef-prepares-fresh-salmon_496169-111.jpg?w=1380&t=st=1683103468~exp=1683104068~hmac=97fffd167d19a14ad7c1e1a3f940c4d95d4591f4227827ece4073920b611523e",
+    "years_of_experience": 15,
+    "num_recipes": 200,
+    "likes": 6000,
+    "short_bio": "Juan Perez is a renowned chef from Mexico City, specializing in traditional Mexican cuisine. He has worked in top-rated restaurants in the country and has won several awards for his unique and flavorful dishes.",
+    "recipes": [
+      {
+        "recipe_name": "Tacos al Pastor",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": [
+          "pork shoulder",
+          "pineapple",
+          "onion",
+          "cilantro",
+          "tortillas"
+        ],
+        "instructions": [
+          "1. Marinate the pork shoulder in a mixture of spices, pineapple juice, and vinegar for at least 4 hours.",
+          "2. Roast the pork in the oven or on a grill until cooked through.",
+          "3. Chop the cooked pork into small pieces and place on tortillas.",
+          "4. Top with diced pineapple, onion, and cilantro.",
+          "5. Serve hot with your favorite salsa."
+        ],
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Chiles Rellenos",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": [
+          "poblano peppers",
+          "ground beef",
+          "rice",
+          "tomatoes",
+          "cheese"
+        ],
+        "instructions": [
+          "1. Roast the poblano peppers until the skins are blackened and blistered.",
+          "2. Peel off the skin and remove the seeds.",
+          "3. Stuff the peppers with a mixture of cooked ground beef, rice, tomatoes, and cheese.",
+          "4. Place the stuffed peppers in a baking dish and bake in the oven until the cheese is melted and bubbly.",
+          "5. Serve hot with your favorite toppings."
+        ],
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Sushi Rolls",
+        "recipe_picture": "https://img.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_2829-14368.jpg?w=1380&t=st=1683103203~exp=1683103803~hmac=8e25175131b59dd85b3a3f69d134200866ec58119bba95c4002a4abcc5ce36cd",
+        "ingredients": [
+          "sushi rice",
+          "nori sheets",
+          "raw fish",
+          "avocado",
+          "cucumber"
+        ],
+        "instructions": [
+          "1. Cook the sushi rice and season it with vinegar and sugar.",
+          "2. Lay a sheet of nori on a bamboo mat.",
+          "3. Spread the rice evenly over the nori.",
+          "4. Add the raw fish, avocado, and cucumber to the center of the rice.",
+          "5. Use the mat to roll the sushi tightly.",
+          "6. Slice the sushi into bite-sized pieces.",
+          "7. Serve with soy sauce and wasabi."
+        ],
+        "rating": 4.7
+      }
+    ]
+  }
+]
